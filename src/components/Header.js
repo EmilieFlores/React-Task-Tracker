@@ -31,6 +31,3 @@ export default Header
 //   backgroundColor: 'pink'
 // }
 
-
-
-
