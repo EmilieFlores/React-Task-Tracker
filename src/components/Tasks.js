@@ -21,8 +21,13 @@ const tasks = [
 ]
 const Tasks = () => {
   return (
-    <div>Tasks</div>
+    {tasks.map(())}
   )
 }
 
 export default Tasks
+
+
+
+
+
